@@ -292,12 +292,12 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CUSTOM_FILE_CAPTION = """<b>{file_name}</b>
 
 ════════※ ·❆· ※════════
-▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/The_Happy_Hour_Hindi">𝐓𝐡𝐞 𝐇𝐚𝐩𝐩𝐲 𝐇𝐨𝐮𝐫™</a>
-▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/Happy_Hour_Friends">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
-════════※ ·❆· ※════════</b>"""
+<b>▫️ Cʜᴀɴɴᴇʟ</b> : <a href="https://t.me/The_Happy_Hour_Hindi">𝐓𝐡𝐞 𝐇𝐚𝐩𝐩𝐲 𝐇𝐨𝐮𝐫™</a>
+<b>▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</b> : <a href="https://t.me/Happy_Hour_Friends">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
