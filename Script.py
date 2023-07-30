@@ -294,13 +294,10 @@ Name - {}
 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-
-
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/The_Happy_Hour_Hindi> ᴄʜᴀɴɴᴇʟ </a>
-
-▫️<a href=https://t.me/Happy_Hour_Friends>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+════════※ ·❆· ※════════
+▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/The_Happy_Hour_Hindi">𝐓𝐡𝐞 𝐇𝐚𝐩𝐩𝐲 𝐇𝐨𝐮𝐫™</a>
+▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/Happy_Hour_Friends">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
+════════※ ·❆· ※════════</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
