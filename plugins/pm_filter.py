@@ -617,13 +617,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="🥉"
+            text="😉"
         )
         await query.message.edit_text(
-            text="🥈"
+            text="😉😉"
         )
         await query.message.edit_text(
-            text="🥇"
+            text="😉😉😉"
         )       
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -648,13 +648,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="🥉"
+            text="😉"
         )
         await query.message.edit_text(
-            text="🥈"
+            text="😉😉"
         )
         await query.message.edit_text(
-            text="🥇"
+            text="😉😉😉"
         )       
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -673,13 +673,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="🥉"
+            text="😉"
         )
         await query.message.edit_text(
-            text="🥈"
+            text="😉😉"
         )
         await query.message.edit_text(
-            text="🥇"
+            text="😉😉😉"
         )
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -961,7 +961,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "rfrsh":
-        await query.answer("👉 परेशान मत कर BSDK....🤬")
+        await query.answer("<b>👉 परेशान मत कर BSDK....🤬</b>")
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ʀᴇғʀᴇsʜ', callback_data='rfrsh')
@@ -1089,7 +1089,7 @@ async def auto_filter(client, msg, spoll=False):
                     callback_data=f'{pre}#{file.file_id}',
                 ),
                 InlineKeyboardButton(
-                    text=f"❍ {get_size(file.file_size)}",
+                    text=f" {get_size(file.file_size)}",
                     callback_data=f'{pre}#{file.file_id}',
                 ),
             ]
@@ -1097,7 +1097,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f' ♀️ {search} ♀️ ', 'qinfo')
+            InlineKeyboardButton(f' 👇 {search} 👇 ', 'qinfo')
         ]
     )
     btn.insert(1, 
