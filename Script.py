@@ -300,7 +300,7 @@ Name - {}
 ════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>🎖️🎖️ Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ ! 🎖️🎖️
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
