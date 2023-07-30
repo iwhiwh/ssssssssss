@@ -961,7 +961,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "rfrsh":
-        await query.answer("<b>👉 परेशान मत कर BSDK....🤬</b>")
+        await query.answer("👉 परेशान मत कर BSDK....🤬")
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ʀᴇғʀᴇsʜ', callback_data='rfrsh')
