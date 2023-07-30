@@ -20,7 +20,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙsᴅᴋ. 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 -<a href=https://t.me/syrus_143_hpy>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ</a>"""
+- 𝚂𝙾𝚄𝚁𝙲𝙴 -<a href=https://t.me/Mister_Ash>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ</a>"""
 
 
 
@@ -98,7 +98,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@FILMY_MEN"""
+@The_Happy_Hour_Hindi"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -177,7 +177,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @FILMY_MEN"""
+ <i>This feature added by @The_Happy_Hour_Hindi"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -268,7 +268,7 @@ Name - {}
 
 ⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ... !!!</b>
 
-<b>ʏᴇ ғɪʟᴇ 𝟷𝟶 ᴍɪɴᴜᴛᴇ ᴋᴇ ᴜɴᴅᴇʀ ᴅᴇʟᴇᴛᴇ ʜᴏ ᴊᴀʏᴇɢᴀ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇ ᴋᴇ ᴡᴊᴀʜ sᴡ</b>
+<b>ये फाइल 10 मिनिट में डिलीट हो जाएगा । कॉपीराइट प्रोटेक्शन ✅😬</b>
 
 <b>© Powered by {}</b>
 """
@@ -297,9 +297,9 @@ Name - {}
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/Filmy_Men> ᴄʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/The_Happy_Hour_Hindi> ᴄʜᴀɴɴᴇʟ </a>
 
-▫️<a href=https://t.me/Filmy_Rog>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
+▫️<a href=https://t.me/Happy_Hour_Friends>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
