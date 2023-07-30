@@ -452,7 +452,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
             elif settings['botpm']:
                 await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await query.answer('𝘾𝙝𝙚𝙘𝙠 𝙋𝙈, 𝙄 𝙝𝙖𝙫𝙚 𝙨𝙚𝙣𝙩 𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙥𝙢\n@ᴄᴄᴏᴍ_ᴛᴇᴀᴍ', show_alert=True)
+                await query.answer('आपको मूवी की फाइल पर्सनल में भेजी है ।', show_alert=True)
                 return
             else:
                 file_send=await client.send_cached_media(
