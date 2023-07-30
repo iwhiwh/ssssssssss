@@ -1,7 +1,7 @@
 {
     "name": "fm sandy",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/512fbbf7ed7af92915863.jpg",
+    "logo": "https://graph.org/file/a66a4ad88fd5944c45145.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,12 +16,12 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/SANDY-FM/CALOPY-SANDY",
-    "repository": "https://github.com/SANDY-FM/CALOPY-SANDY",
+    "website": "https://github.com/iwhiwh/ssssssssss",
+    "repository": "https://github.com/iwhiwh/ssssssssss",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-"value":"6608598707:AAGkDd-SDIbfR-SlMUGPjYhEQ9r9e9HxJok",
+"value":"6027834135:AAHMQzmIk-EHmFhzhgVSJ-GD2VFY5ImVYck",
             "required": true
         },
         "API_ID": {
@@ -45,6 +45,7 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+"value":"https://graph.org/file/a66a4ad88fd5944c45145.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
@@ -76,7 +77,7 @@
         },
         "FILE_CHANNEL": {
             "description": "File REDIRECT TO , give Channel id for redirect file eg:-100xxxxxxx.",
-"value":"-1001942168587",
+"value":"-1001867538832",
             "required": true
         },
         "DELETE_CHANNELS": {
